@@ -1,0 +1,14 @@
+{
+    "emploees":[
+        {"firstName":"Salman", "lastName":"Haider"}, 
+        {"firstName":"Bilal", "lastName":"Haider"}, 
+        {"firstName":"Saeed", "lastName":"Haider"}
+    ],
+
+    "Car":[
+        {"CarName":"Color", "Value":"White"}, 
+        {"CarName":"Price", "Value":"10,000k"}, 
+        {"CarName":"Value", "Value":"Decent"}
+    ]
+}
+
